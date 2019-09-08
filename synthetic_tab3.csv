@@ -1,0 +1,1001 @@
+city,latitude,longitude,sessions
+Hereford,52.0564,-2.7160,14
+Toulouse,43.6047,1.4442,7
+Shah Alam,3.0733,101.5185,8
+Marseille,43.2965,5.3698,4
+Wokingham,51.4105,-0.8339,31
+Rushden,52.2891,-0.6004,7
+Shenyang,41.8057,123.4315,11
+Kingston upon Hull,53.7457,-0.3367,13
+Weybridge,51.3716,-0.4579,9
+Mexico City,19.4326,-99.1332,28
+Toulouse,43.6047,1.4442,7
+Witney,51.7859,-1.4851,4
+Des Moines,41.5868,-93.6250,11
+Preston,53.7632,-2.7031,44
+Lviv,49.8397,24.0297,12
+Irvine,55.6116,-4.6696,206
+Lausanne,46.5197,6.6323,4
+Athens,37.9838,23.7275,72
+Bremen,53.0793,8.8017,5
+Pasadena,34.1478,-118.1445,5
+Montrose,56.7069,-2.4661,25
+Portland,45.5155,-122.6793,7
+Genoa,44.4057,8.9463,4
+Leipzig,51.3397,12.3731,12
+Hemet,33.7475,-116.9720,40
+Duns,55.7778,-2.3435,6
+Rochdale,53.6097,-2.1561,13
+Port Louis,-20.1609,57.5012,4
+Rickmansworth,51.6388,-0.4741,6
+Beirut,33.8938,35.5018,6
+Zurich,47.3769,8.5417,34
+Providence,41.8240,-71.4128,5
+Middlesbrough,54.5742,-1.2350,19
+Yangon,16.8661,96.1951,11
+Lancing,50.8282,-0.3281,10
+Los Angeles,34.0522,-118.2437,144
+Peterborough,52.5695,-0.2405,33
+Buxton,53.2591,-1.9148,6
+Douglas,54.1523,-4.4861,44
+Ruthin,53.1149,-3.3103,7
+Grimsby,53.5675,-0.0808,12
+Dearborn,42.3223,-83.1763,5
+Baltimore,39.2904,-76.6122,43
+Auckland,-36.8485,174.7633,42
+Utrecht,52.0907,5.1214,30
+Kitchener,43.4516,-80.4925,4
+Hartlepool,54.6917,-1.2129,5
+Curitiba,-25.4244,-49.2654,7
+Esher,51.3695,-0.3659,4
+Brentford,51.4861,-0.3101,66
+Cirencester,51.7185,-1.9682,7
+Madrid,40.4168,-3.7038,101
+Kaunas,54.8985,23.9036,10
+Shenzhen,22.5431,114.0579,5
+Morecambe,54.0742,-2.8650,4
+Bury St Edmunds,52.2429,0.7105,10
+Nashville,36.1627,-86.7816,32
+Seville,37.3891,-5.9845,19
+Miami,25.7617,-80.1918,26
+Aberdeen,57.1497,-2.0943,1312
+Keighley,53.8678,-1.9124,16
+Cordoba,-31.4201,-64.1888,10
+Stavanger Municipality,58.9666,5.7167,25
+Basingstoke,51.2665,-1.0924,17
+Woking,51.3168,-0.5600,20
+Walsall,52.5862,-1.9829,14
+Tashkent,41.2995,69.2401,4
+Dublin,53.3498,-6.2603,264
+Indianapolis,39.7684,-86.1581,11
+Letchworth Garden City,51.9791,-0.2266,5
+Wroclaw,51.1079,17.0385,29
+Gateshead,54.9527,-1.6034,27
+Dorking,51.2322,-0.3324,7
+Coatbridge,55.8622,-4.0193,394
+Portree,57.4125,-6.1960,17
+Porto,41.1579,-8.6291,20
+North Berwick,56.0584,-2.7196,160
+Berkeley,37.8716,-122.2727,9
+Chester,53.1934,-2.8931,16
+Acharnes,38.0852,23.7381,8
+Larkhall,55.7377,-3.9717,8
+Dundee,56.4620,-2.9707,718
+Wakefield,53.6833,-1.5059,26
+Canterbury,51.2802,1.0789,8
+Wembley,51.5505,-0.3048,13
+Sao Paulo,-23.5505,-46.6333,60
+Yokohama,35.4437,139.6380,6
+Makati,14.5547,121.0244,15
+Haywards Heath,50.9990,-0.1063,4
+Ahmedabad,23.0225,72.5714,25
+Bournemouth,50.7192,-1.8808,30
+Dublin,53.3498,-6.2603,264
+Baltimore,39.2904,-76.6122,43
+Newark,40.7357,-74.1724,6
+Lincoln,40.8136,-96.7026,5
+Smethwick,52.4924,-1.9652,9
+North Bergen,40.8043,-74.0121,5
+Newcastle-under-Lyme,53.0132,-2.2273,8
+Cumbernauld,55.9457,-3.9925,405
+Lyon,45.7640,4.8357,8
+Leeds,53.8008,-1.5491,487
+Beeston,52.9239,-1.2124,7
+Bremen,53.0793,8.8017,5
+London,51.5074,-0.1278,12959
+Harare,-17.8252,31.0335,18
+Grimsby,53.5675,-0.0808,12
+Chatham,51.3810,0.5221,7
+Boca Raton,26.3683,-80.1289,4
+Cagayan de Oro,8.4542,124.6319,6
+Rockwood,42.0709,-83.2466,5
+Hastings,50.8543,0.5735,12
+Surrey,49.1913,-122.8490,4
+Lerwick,60.1530,-1.1493,10
+Wetherby,53.9271,-1.3848,5
+Reston,38.9586,-77.3570,31
+Waukegan,42.3636,-87.8448,6
+Poznan,52.4064,16.9252,24
+Antwerp,51.2194,4.4025,8
+Ho Chi Minh City,10.8231,106.6297,30
+Los Alamitos,33.8032,-118.0719,5
+Kusadasi,37.8579,27.2610,9
+Gurgaon,28.4595,77.0266,30
+Gloucester,51.8642,-2.2382,7
+Gainesville,29.6516,-82.3248,5
+Kobe,34.6901,135.1956,4
+Bydgoszcz,53.1235,18.0084,6
+San Juan,18.4655,-66.1057,5
+Antalya,36.8969,30.7133,7
+Aylesbury,51.8156,-0.8084,24
+Bridgend,51.5043,-3.5769,9
+Hexham,54.9727,-2.1121,6
+Kampala,0.3476,32.5825,13
+Penarth,51.4388,-3.1735,4
+Greensboro,36.0726,-79.7920,4
+Kilbride,56.3755,-5.4727,41
+Gdynia,54.5189,18.5305,6
+Pont-a-Celles,50.5135,4.3580,4
+Phnom Penh,11.5564,104.9282,53
+Panipat,29.3909,76.9635,4
+Msida,35.8956,14.4869,4
+Alhaurin de la Torre,36.6599,-4.5599,7
+Biratnagar,26.4525,87.2718,6
+Gourock,55.9592,-4.8169,11
+Fayetteville,35.0527,-78.8784,6
+Belgorod,50.5997,36.5983,5
+Marrakesh,31.6295,-7.9811,4
+Solihull,52.4118,-1.7776,55
+Kigali,-1.9706,30.1044,5
+Athens,37.9838,23.7275,72
+Sevenoaks,51.2724,0.1909,5
+Saint Petersburg,59.9343,30.3351,10
+Zapopan,20.6720,-103.4165,4
+Kingston,18.0179,-76.8099,4
+Iasi,47.1585,27.6014,5
+Irvine,33.6839,-117.7947,9
+Las Palmas de Gran Canaria,28.1235,-15.4363,5
+Kuala Lumpur,3.1390,101.6869,34
+Vilnius,54.6872,25.2797,21
+Nuneaton,52.5205,-1.4654,5
+Cheyenne,41.1400,-104.8202,12
+Basel,47.5596,7.5886,8
+Windermere,54.3807,-2.9068,20
+Holmfirth,53.5717,-1.7863,10
+Alverca do Ribatejo,38.9022,-9.0397,3
+Chelmsford,51.7356,0.4685,12
+Penarth,51.4388,-3.1735,4
+Johnstone,55.8373,-4.5139,91
+Bangor,54.6542,-5.6731,33
+Pimpri-Chinchwad,18.6298,73.7997,11
+Breda,51.5719,4.7683,6
+Riga,56.9496,24.1052,25
+Leighton Buzzard,51.9197,-0.6607,5
+Temple City,34.1072,-118.0578,5
+Stavanger Municipality,58.9666,5.7167,25
+Glenrothes,56.2008,-3.1599,144
+Plano,33.0198,-96.6989,7
+Los Angeles,34.0522,-118.2437,144
+Chichester,50.8376,-0.7749,4
+Melrose,55.5987,-2.7219,8
+Malmesbury,51.5864,-2.1028,10
+Reading,51.4543,-0.9781,63
+La Victoria,-12.0734,-77.0163,8
+Denver,39.7392,-104.9902,51
+Kingston upon Hull,53.7457,-0.3367,13
+Odesa,46.4825,30.7233,4
+Amstelveen,52.3114,4.8701,4
+Kirkcaldy,56.1168,-3.1581,301
+Canberra,-35.3075,149.1244,5
+Brisbane,-27.4698,153.0251,44
+San Diego,32.7157,-117.1611,41
+Leighton Buzzard,51.9197,-0.6607,5
+Panipat,29.3909,76.9635,4
+Wallingford,51.5974,-1.1336,5
+Dumbarton,55.9453,-4.5646,109
+Thessaloniki,40.6401,22.9444,33
+Sydney,-33.8688,151.2093,139
+Plano,33.0198,-96.6989,7
+Parsippany-Troy Hills,40.8653,-74.4174,7
+Pune,18.5204,73.8567,71
+Alnwick,55.4127,-1.7063,5
+Bend,44.0582,-121.3153,35
+Novosibirsk,55.0084,82.9357,5
+Falkirk,56.0019,-3.7839,689
+Alimos,37.9169,23.7186,4
+Esher,51.3695,-0.3659,4
+Malmo,55.6050,13.0038,12
+Livingston,55.9007,-3.5181,1699
+Fort William,56.8198,-5.1052,27
+Glastonbury,51.1474,-2.7185,5
+Ashford,51.4275,-0.4553,12
+Coimbatore,11.0168,76.9558,26
+Yerevan,40.1794,44.5408,6
+Stansted Mountfitchet,51.8997,0.2086,6
+South Tangerang,-6.2835,106.7113,4
+Clayton,38.6426,-90.3237,5
+Huntingdon,52.3315,-0.1826,5
+Reigate,51.2373,-0.2059,4
+Abuja,9.0765,7.3986,19
+Nuremberg,49.4521,11.0767,10
+Glasgow,55.8642,-4.2518,17503
+Windsor,51.4817,-0.6136,40
+Brasilia,-15.8267,-47.9218,11
+Epsom,51.3360,-0.2674,20
+Brooklyn,41.7316,-92.4454,4
+Fort William,56.8198,-5.1052,27
+Grand Rapids,42.9634,-85.6681,7
+Charleston,32.7765,-79.9311,4
+Crewe,53.1004,-2.4438,20
+Hindhead,51.1136,-0.7321,6
+Lincoln,40.8136,-96.7026,5
+Campinas,-22.9329,-47.0738,7
+Centennial,39.5807,-104.8772,4
+Bishkek,42.8746,74.5698,4
+Linkoping,58.4108,15.6214,4
+New Orleans,29.9511,-90.0715,10
+San Diego,32.7157,-117.1611,41
+Nashville,36.1627,-86.7816,32
+Chelmsford,51.7356,0.4685,12
+Gongju-si,36.4465,127.1192,25
+Renfrew,55.8753,-4.3915,143
+San Francisco,37.7749,-122.4194,109
+Cebu City,10.3157,123.8854,13
+Izmir,38.4237,27.1428,18
+Sittingbourne,51.3404,0.7316,11
+Worsley,53.5075,-2.3912,9
+Rochdale,53.6097,-2.1561,13
+Johnstone,55.8373,-4.5139,91
+Mumbai,19.0760,72.8777,79
+Davis,38.5449,-121.7405,24
+Roodepoort,-26.1201,27.9015,8
+Corfu,39.6250,19.9223,7
+Prestwick,55.4956,-4.6142,14
+Lutterworth,52.4560,-1.1992,4
+South Tangerang,-6.2835,106.7113,4
+Flitwick,52.0046,-0.4979,4
+Nairobi,-1.2921,36.8219,46
+Middlesbrough,54.5742,-1.2350,19
+Luton,51.8787,-0.4200,27
+Praia,14.9330,-23.5133,5
+Almere,52.3508,5.2647,8
+Slough,51.5105,-0.5950,57
+Praia,14.9330,-23.5133,5
+Truro,50.2632,-5.0510,10
+Ashburn,39.0438,-77.4874,94
+Varna,43.2141,27.9147,5
+'s-Heerenhoek,51.4530,3.7698,3
+Dorking,51.2322,-0.3324,7
+Kobe,34.6901,135.1956,4
+Weymouth,50.6144,-2.4576,21
+Cordoba,-31.4201,-64.1888,10
+Moscow,55.7558,37.6173,51
+Chatham,51.3810,0.5221,7
+Yeovil,50.9421,-2.6333,4
+Inveraray,56.2318,-5.0754,19
+Abuja,9.0765,7.3986,19
+Tartu,58.3780,26.7290,7
+Jersey City,40.7178,-74.0431,5
+London,51.5074,-0.1278,12959
+Madison,43.0731,-89.4012,6
+Brisbane,-27.4698,153.0251,44
+Lutterworth,52.4560,-1.1992,4
+Timisoara,45.7489,21.2087,12
+Ruthin,53.1149,-3.3103,7
+Caerphilly,51.5788,-3.2181,9
+Santiago,-33.4489,-70.6693,24
+Nottingham,52.9548,-1.1581,272
+Burnley,53.7893,-2.2405,8
+Dartford,51.4462,0.2169,17
+'s-Hertogenbosch,51.6978,5.3037,18
+Avoch,57.5667,-4.1747,9
+St Helier,49.1991,-2.1064,5
+Tel Aviv-Yafo,32.0853,34.7818,78
+Portree,57.4125,-6.1960,17
+Vadodara,22.3072,73.1812,7
+Tampere,61.4982,23.7611,5
+Wakefield,53.6833,-1.5059,26
+Rochdale,53.6097,-2.1561,13
+Plano,33.0198,-96.6989,7
+Belgorod,50.5997,36.5983,5
+Horsham,51.0629,-0.3259,26
+Wokingham,51.4105,-0.8339,31
+Varna,43.2141,27.9147,5
+Jersey City,40.7178,-74.0431,5
+Maghull,53.5114,-2.9359,4
+Bristol,51.4545,-2.5879,347
+Roanoke,37.2710,-79.9414,20
+Auckland,-36.8485,174.7633,42
+The Hague,52.0705,4.3007,34
+Boca Raton,26.3683,-80.1289,4
+Pasig,14.5764,121.0851,4
+Brussels,50.8503,4.3517,30
+Cagayan de Oro,8.4542,124.6319,6
+Gateshead,54.9527,-1.6034,27
+Giza,30.0131,31.2089,10
+Eslov,55.8391,13.3034,7
+San Antonio,29.4241,-98.4936,29
+Boulder,40.0150,-105.2705,5
+Bellevue,47.6101,-122.2015,18
+Stoke-on-Trent,53.0027,-2.1794,25
+Malaga,36.7213,-4.4213,4
+Cambridge,42.3736,-71.1097,8
+Bangor,53.2274,-4.1293,10
+Osaka,34.6937,135.5023,10
+Wellington,-41.2865,174.7762,12
+Stuttgart,48.7758,9.1829,15
+Newcastle upon Tyne,54.9783,-1.6178,671
+Hyderabad,17.3850,78.4867,80
+Gainesville,29.6516,-82.3248,5
+Schaumburg,42.0334,-88.0834,5
+Uig,57.5841,-6.3573,4
+Mansfield,53.1472,-1.1987,9
+Melbourne,-37.8136,144.9631,85
+Vigo,42.2406,-8.7207,5
+Leiden,52.1601,4.4970,4
+Napier,-39.4928,176.9120,14
+Mumbai,19.0760,72.8777,79
+North Berwick,56.0584,-2.7196,160
+Brampton,43.7315,-79.7624,7
+Bonn,50.7374,7.0982,6
+Plymouth Charter Township,42.3735,-83.5090,9
+Grimsby,53.5675,-0.0808,12
+Kilmarnock,55.6147,-4.4988,371
+Irvine,33.6846,-117.8265,15
+Groningen,53.2194,6.5665,32
+Madison,43.0731,-89.4012,6
+Kendal,54.3280,-2.7463,8
+Subang Jaya,3.0567,101.5851,10
+Malmesbury,51.5864,-2.1028,10
+Banbridge,54.3487,-6.2705,11
+Newark-on-Trent,53.0700,-0.8066,11
+Eastbourne,50.7680,0.2905,9
+Fort Collins,40.5853,-105.0844,7
+Sarreguemines,49.1060,7.0709,6
+Greenock,55.9565,-4.7720,217
+Tashkent,41.2995,69.2401,4
+Vadodara,22.3072,73.1812,7
+Stonehouse,55.6987,-3.9839,22
+Melbourn,52.0839,0.0160,4
+Drunen,51.6869,5.1378,9
+Stuttgart,48.7758,9.1829,15
+Quincy,42.2529,-71.0023,5
+Durham,35.9940,-78.8986,14
+Hiram,33.8757,-84.7622,5
+Portlethen,57.0617,-2.1295,93
+Teddington,51.4268,-0.3313,9
+Cirencester,51.7185,-1.9682,7
+Dallas,32.7767,-96.7970,71
+Dorchester,50.7112,-2.4412,5
+Paranaque,14.4793,121.0198,4
+Kathmandu,27.7172,85.3240,16
+Tamworth,52.6336,-1.6910,8
+Almere,52.3508,5.2647,8
+Fayetteville,35.0527,-78.8784,6
+Havant,50.8518,-0.9847,13
+Dayuan District,25.0493,121.1939,5
+Amsterdam,52.3702,4.8952,14
+Los Angeles,34.0522,-118.2437,144
+Srinagar,34.0837,74.7973,6
+Zagreb,45.8150,15.9819,26
+Avoch,57.5667,-4.1747,9
+Maidstone,51.2704,0.5227,11
+Belo Horizonte,-19.9173,-43.9346,15
+Petaling Jaya,3.1279,101.5945,8
+East Lansing,42.7370,-84.4839,13
+Kampala,0.3476,32.5825,13
+Da Nang,16.0544,108.2022,4
+Melksham,51.3704,-2.1376,5
+Manchester,53.4808,-2.2426,631
+Ljubljana,46.0569,14.5058,20
+Dnipro,48.4647,35.0462,7
+London,51.5074,-0.1278,12959
+Ullapool,57.8954,-5.1613,9
+Londonderry,54.9966,-7.3086,27
+Rochdale,53.6097,-2.1561,13
+Grays,51.4784,0.3230,4
+Naaldwijk,51.9924,4.2080,5
+Bethesda,38.9847,-77.0947,7
+Nanjing,32.0603,118.7969,6
+Alverca do Ribatejo,38.9022,-9.0397,3
+Kusadasi,37.8579,27.2610,9
+Braintree,51.8801,0.5509,4
+Tel Aviv-Yafo,32.0853,34.7818,78
+Grimsby,53.5675,-0.0808,12
+Antwerp,51.2194,4.4025,8
+Chapel Hill,35.9132,-79.0558,5
+Houston,29.7604,-95.3698,45
+Rio de Janeiro,-22.9112,-43.4452,15
+Taunton,51.0153,-3.1068,10
+'s-Heerenhoek,51.4530,3.7698,3
+Florianopolis,-27.5949,-48.5482,12
+Cordoba,-31.4201,-64.1888,10
+Uckfield,50.9664,0.0959,4
+San Francisco,37.7749,-122.4194,109
+Bilbao,43.2630,-2.9350,4
+Round Rock,30.5083,-97.6789,5
+Stoke Poges,51.5504,-0.5849,5
+Mississauga,43.5890,-79.6441,14
+Manchester,53.4808,-2.2426,631
+Bratislava,48.1486,17.1077,23
+Stroud,51.7457,-2.2178,4
+Oakland,37.8044,-122.2711,22
+Amsterdam Airport Schiphol,52.2875,4.7530,3
+Giza,30.0131,31.2089,10
+Saint Ives,52.3347,-0.0786,4
+Wakefield,53.6833,-1.5059,26
+Lowestoft,52.4811,1.7534,4
+Montevideo,-34.9011,-56.1645,10
+Motherwell,55.7832,-3.9811,273
+Kilwinning,55.6559,-4.7031,96
+Leeuwarden,53.2012,5.7999,7
+Long Beach,33.7701,-118.1937,14
+Islamabad,33.6844,73.0479,25
+New Orleans,29.9511,-90.0715,10
+Northallerton,54.3380,-1.4300,4
+Musselburgh,55.9419,-3.0539,408
+Kirkland,47.6769,-122.2060,19
+Leicester,52.6369,-1.1398,33
+Macclesfield,53.2587,-2.1193,14
+Milan,45.4642,9.1900,60
+The Royal Town of Sutton Coldfield,52.5704,-1.8240,8
+Scunthorpe,53.5886,-0.6544,7
+Thessaloniki,40.6401,22.9444,33
+Lockerbie,55.1222,-3.3490,17
+Royal Leamington Spa,52.2852,-1.5201,17
+Hamilton,43.2557,-79.8711,5
+Wetherby,53.9271,-1.3848,5
+Fortaleza,-3.7327,-38.5270,18
+Marseille,43.2965,5.3698,4
+Peebles,55.6531,-3.1936,17
+Dearborn,42.3223,-83.1763,5
+Brno,49.1951,16.6068,16
+Vadodara,22.3072,73.1812,7
+Carrickfergus,54.7262,-5.8101,8
+Brisbane,-27.4698,153.0251,44
+Kenilworth,52.3496,-1.5807,14
+Columbus,39.9612,-82.9988,19
+Derby,52.9225,-1.4746,54
+Brentwood,51.6205,0.3072,6
+Crowborough,51.0609,0.1659,4
+Warsaw,52.2297,21.0122,137
+Greensboro,36.0726,-79.7920,4
+Lincoln,40.8136,-96.7026,5
+Hermosillo,29.0730,-110.9559,7
+Wallingford,51.5974,-1.1336,5
+Letchworth Garden City,51.9791,-0.2266,5
+Dusseldorf,51.2277,6.7735,8
+Yerevan,40.1794,44.5408,6
+Arlington,38.8800,-77.1068,9
+Antrim,54.7195,-6.2072,8
+Antwerp,51.2194,4.4025,8
+Macclesfield,53.2587,-2.1193,14
+Perth,-31.9505,115.8605,25
+Pasadena,34.1478,-118.1445,5
+Riyadh,24.7136,46.6753,25
+Da Nang,16.0544,108.2022,4
+Zaventem,50.8855,4.4710,7
+Lockerbie,55.1222,-3.3490,17
+Tonbridge,51.1950,0.2757,5
+Stockton-on-Tees,54.5705,-1.3290,16
+Kansas City,39.0997,-94.5786,12
+Odesa,46.4825,30.7233,4
+Boston,42.3601,-71.0589,48
+Espoo,60.2048,24.6521,11
+Gurgaon,28.4595,77.0266,30
+Kosice,48.7164,21.2611,4
+Blackpool,53.8175,-3.0357,10
+Bath,51.3811,-2.3590,51
+Sutton-in-Ashfield,53.1269,-1.2625,4
+Wetherby,53.9271,-1.3848,5
+Falkirk,56.0019,-3.7839,689
+Thessaloniki,40.6401,22.9444,33
+Paranaque,14.4793,121.0198,4
+Liverpool,53.4084,-2.9916,211
+Nottingham,52.9548,-1.1581,272
+Naaldwijk,51.9924,4.2080,5
+Lund,55.7047,13.1910,5
+Macclesfield,53.2587,-2.1193,14
+Weybridge,51.3716,-0.4579,9
+Islamabad,33.6844,73.0479,25
+Wetherby,53.9271,-1.3848,5
+Eastbourne,50.7680,0.2905,9
+Birmingham,33.5186,-86.8104,6
+Thessaloniki,40.6401,22.9444,33
+Vastervik,57.7577,16.6370,4
+Esher,51.3695,-0.3659,4
+Ilkley,53.9255,-1.8228,5
+Nashville,36.1627,-86.7816,32
+San Salvador,13.6929,-89.2182,4
+Clydebank,55.9001,-4.4048,162
+West Bromwich,52.5177,-1.9952,5
+Tallinn,59.4370,24.7536,19
+Esher,51.3695,-0.3659,4
+Corfu,39.6250,19.9223,7
+Curitiba,-25.4244,-49.2654,7
+Weybridge,51.3716,-0.4579,9
+Napier,-39.4928,176.9120,14
+Stuttgart,48.7758,9.1829,15
+Los Alamitos,33.8032,-118.0719,5
+Bracknell,51.4160,-0.7540,24
+Chisinau,47.0105,28.8638,5
+Lausanne,46.5197,6.6323,4
+Luton,51.8787,-0.4200,27
+Winsford,53.1943,-2.5197,13
+Kelso,55.6000,-2.4322,42
+Andover,51.2112,-1.4919,6
+Northallerton,54.3380,-1.4300,4
+Northallerton,54.3380,-1.4300,4
+Minsk,53.9045,27.5615,11
+Budapest,47.4979,19.0402,51
+Amsterdam Airport Schiphol,52.2875,4.7530,3
+Indianapolis,39.7684,-86.1581,11
+Strovolos,35.1338,33.3598,4
+Nashville,36.1627,-86.7816,32
+Wilton,41.1954,-73.4379,4
+Koprivnica,46.1639,16.8335,4
+King's Lynn,52.7517,0.4023,6
+Bandung,-6.9175,107.6191,9
+Dillon,34.4165,-79.3712,4
+Salt Lake City,40.7608,-111.8910,23
+Ibadan,7.3775,3.9470,8
+Oxford,51.7520,-1.2577,79
+Minsk,53.9045,27.5615,11
+Northampton,52.2405,-0.9027,44
+Alexandria,31.2001,29.9187,3
+Newton Aycliffe,54.6160,-1.5756,9
+Luton,51.8787,-0.4200,27
+Gateshead,54.9527,-1.6034,27
+Leuven,50.8798,4.7005,6
+Quincy,47.2343,-119.8525,5
+Cadiz,36.5271,-6.2886,30
+Swords,53.4557,-6.2197,4
+Bellevue,47.6101,-122.2015,18
+Alness,57.6960,-4.2568,73
+Elgin,57.6495,-3.3185,71
+Santa Barbara,34.4208,-119.6982,7
+Budapest,47.4979,19.0402,51
+Kosice,48.7164,21.2611,4
+Accra,5.6037,-0.1870,22
+Pretoria,-25.7479,28.2293,27
+Berlin,52.5200,13.4050,117
+Egg Harbor Township,39.3823,-74.6166,22
+Wallingford,51.5974,-1.1336,5
+Bruges,51.2093,3.2247,5
+Barnsley,53.5526,-1.4797,33
+Timisoara,45.7489,21.2087,12
+Chisinau,47.0105,28.8638,5
+Quezon City,14.6760,121.0437,37
+Bury St Edmunds,52.2429,0.7105,10
+Annandale,38.8304,-77.1964,4
+Jersey City,40.7178,-74.0431,5
+Brasov,45.6580,25.6012,6
+Ayr,55.4586,-4.6292,146
+Hemel Hempstead,51.7532,-0.4486,32
+Inveraray,56.2318,-5.0754,19
+Cedar Park,30.5052,-97.8203,4
+London,51.5074,-0.1278,12959
+Delft,52.0116,4.3571,17
+Tbilisi,41.7151,44.8271,7
+Sittingbourne,51.3404,0.7316,11
+Da Nang,16.0544,108.2022,4
+Mannheim,49.4875,8.4660,5
+Almada,38.6765,-9.1651,3
+Havant,50.8518,-0.9847,13
+Dnipro,48.4647,35.0462,7
+Aldershot,51.2484,-0.7558,7
+Surat,21.1702,72.8311,5
+Asker Municipality,59.8218,10.4210,8
+Paranaque,14.4793,121.0198,4
+Melrose,55.5987,-2.7219,8
+Harrogate,53.9921,-1.5418,15
+Cagayan de Oro,8.4542,124.6319,6
+Leicester,52.6369,-1.1398,33
+Kirkintilloch,55.9392,-4.1562,295
+Raritan,40.5695,-74.6329,16
+Dnipro,48.4647,35.0462,7
+Oslo Municipality,59.9139,10.7521,55
+Bracknell,51.4160,-0.7540,24
+North Shields,55.0108,-1.4491,4
+Hucknall,53.0341,-1.2029,6
+Montpellier,43.6108,3.8767,4
+Kyoto,35.0116,135.7680,20
+Kingston upon Hull,53.7457,-0.3367,13
+Citrus Heights,38.7071,-121.2811,5
+Ljubljana,46.0569,14.5058,20
+Cagayan de Oro,8.4542,124.6319,6
+Leyland,53.6979,-2.6955,8
+Greenock,55.9565,-4.7720,217
+Henley-on-Thames,51.5358,-0.9029,4
+Chuo City,35.6706,139.7720,10
+Bury St Edmunds,52.2429,0.7105,10
+Kinston,35.2627,-77.5816,23
+Breda,51.5719,4.7683,6
+La Victoria,-12.0734,-77.0163,8
+Dnipro,48.4647,35.0462,7
+Shenyang,41.8057,123.4315,11
+Hinckley,52.5455,-1.3767,8
+Stuttgart,48.7758,9.1829,15
+Aylesbury,51.8156,-0.8084,24
+Mexico City,19.4326,-99.1332,28
+Athens,37.9838,23.7275,72
+San Juan,18.4655,-66.1057,5
+Toronto,43.6532,-79.3832,113
+Orlando,28.5383,-81.3792,18
+Bury,53.5933,-2.2966,14
+Stuttgart,48.7758,9.1829,15
+Sofia,42.6977,23.3219,26
+North Shields,55.0108,-1.4491,4
+Bridgwater,51.1279,-3.0036,8
+Brisbane,-27.4698,153.0251,44
+Copenhagen,55.6761,12.5683,47
+Horsham,51.0629,-0.3259,26
+Eskdalemuir,55.2678,-3.1757,13
+Ulaanbaatar,47.8864,106.9057,4
+Cardiff,51.4816,-3.1791,71
+Burgess Hill,50.9545,-0.1287,6
+Memphis,35.1495,-90.0490,11
+New Orleans,29.9511,-90.0715,10
+Mountain View,37.3861,-122.0839,11
+Islamabad,33.6844,73.0479,25
+Abu Dhabi,24.4539,54.3773,15
+Henley-on-Thames,51.5358,-0.9029,4
+Sevenoaks,51.2724,0.1909,5
+Winsford,53.1943,-2.5197,13
+Auckland,-36.8485,174.7633,42
+Jena,50.9271,11.5892,4
+Prague,50.0755,14.4378,33
+Fort William,56.8198,-5.1052,27
+Ware,51.8104,-0.0282,6
+Roodepoort,-26.1201,27.9015,8
+Ahmedabad,23.0225,72.5714,25
+Daventry,52.2575,-1.1649,11
+Melbourne,-37.8136,144.9631,85
+Wantage,51.5889,-1.4265,5
+La Victoria,-12.0734,-77.0163,8
+Durban North,-29.7870,31.0220,8
+Tallinn,59.4370,24.7536,19
+Pont-a-Celles,50.5135,4.3580,4
+Bandung,-6.9175,107.6191,9
+Atlanta,33.7490,-84.3880,50
+Adelaide,-34.9285,138.6007,8
+Mexico City,19.4326,-99.1332,28
+Ashburn,39.0438,-77.4874,94
+Milwaukee,43.0389,-87.9065,7
+Minato City,35.6581,139.7515,8
+Port Elizabeth,-33.9608,25.6022,7
+Porto,41.1579,-8.6291,20
+Blackburn,53.7486,-2.4875,16
+Alpharetta,34.0754,-84.2941,3
+Poznan,52.4064,16.9252,24
+Lublin,51.2465,22.5684,9
+Washington,38.9072,-77.0369,91
+Dearborn,42.3223,-83.1763,5
+Sheffield,53.3811,-1.4701,121
+Ibadan,7.3775,3.9470,8
+Manchester,53.4808,-2.2426,631
+Amsterdam,52.3680,4.9036,150
+Little Rock,34.7465,-92.2896,5
+Christchurch,-43.5321,172.6362,6
+Overland Park,38.9822,-94.6708,6
+Catania,37.5079,15.0830,5
+Cumberland,43.7966,-70.2585,6
+Santa Clara,37.3541,-121.9552,15
+Kingston upon Hull,53.7676,-0.3274,4
+Los Alamitos,33.8032,-118.0719,5
+Bolton,53.5769,-2.4282,56
+Coffeyville,37.0373,-95.6164,159
+Stoke Poges,51.5504,-0.5849,5
+Yangon,16.8661,96.1951,11
+Leipzig,51.3397,12.3731,12
+Wellington,-41.2865,174.7762,12
+Kharkiv,49.9935,36.2304,10
+Naples,40.8518,14.2681,9
+Kampala,0.3476,32.5825,13
+Southend-on-Sea,51.5459,0.7077,17
+Adana,36.9914,35.3308,4
+Curitiba,-25.4244,-49.2654,7
+Cumberland,43.7966,-70.2585,6
+Watford,51.6565,-0.3903,77
+Belo Horizonte,-19.9173,-43.9346,15
+Godalming,51.1857,-0.6128,8
+Natal,-5.7792,-35.2009,6
+Dar es Salaam,-6.7924,39.2083,8
+Gateshead,54.9527,-1.6034,27
+Shenyang,41.8057,123.4315,11
+Chesterfield,53.2350,-1.4216,6
+North Walsham,52.8227,1.3860,4
+Bolton,53.5769,-2.4282,56
+Colchester,51.8959,0.8919,28
+Minato City,35.6581,139.7515,8
+Lawrenceville,33.9562,-83.9880,4
+Amadora,38.7578,-9.2245,6
+Clacton-on-Sea,51.7895,1.1530,6
+Tbilisi,41.7151,44.8271,7
+Tamworth,52.6336,-1.6910,8
+Ware,51.8104,-0.0282,6
+Fairfield,40.8837,-74.3060,5
+Union,40.6976,-74.2632,4
+Coimbra,40.2033,-8.4103,4
+Cascavel,-24.9647,-53.4060,7
+Bedford,32.8440,-97.1431,4
+Castleford,53.7235,-1.3460,24
+Jakarta,-6.2088,106.8456,50
+Skipton,53.9628,-2.0163,7
+Madison,43.0731,-89.4012,6
+Leiden,52.1601,4.4970,4
+Bridgwater,51.1279,-3.0036,8
+Chuo City,35.6706,139.7720,10
+Rutherglen,55.8290,-4.2243,380
+Durban North,-29.7870,31.0220,8
+La Victoria,-12.0734,-77.0163,8
+North Bergen,40.8043,-74.0121,5
+Fayetteville,35.0527,-78.8784,6
+Menlo Park,37.4530,-122.1817,5
+Dallas,32.7767,-96.7970,71
+Glengormley,54.6798,-5.9594,6
+Bengaluru,12.9716,77.5946,175
+Herne Bay,51.3709,1.1278,5
+Grays,51.4784,0.3230,4
+Brighton,50.8225,-0.1372,122
+Farnborough,51.2869,-0.7526,28
+Sterling Heights,42.5803,-83.0302,4
+Omaha,41.2565,-95.9345,10
+Boise,43.6150,-116.2023,30
+Sevenoaks,51.2724,0.1909,5
+Quincy,42.2529,-71.0023,5
+Taunton,51.0153,-3.1068,10
+Charlottesville,38.0293,-78.4767,4
+Portland,45.5155,-122.6793,7
+Glastonbury,51.1474,-2.7185,5
+Edmonton,53.5444,-113.4909,10
+Alytus,54.3963,24.0459,4
+Glastonbury,51.1474,-2.7185,5
+Leuven,50.8798,4.7005,6
+Brentford,51.4861,-0.3101,66
+Eaglesham,55.7393,-4.2700,7
+Antwerp,51.2194,4.4025,8
+Zagreb,45.8150,15.9819,26
+Bury,53.5933,-2.2966,14
+Redditch,52.3090,-1.9409,5
+Cheongju-si,36.6424,127.4890,4
+Dayuan District,25.0493,121.1939,5
+Vilnius,54.6872,25.2797,21
+Long Beach,33.7701,-118.1937,14
+Bridgwater,51.1279,-3.0036,8
+Boca Raton,26.3683,-80.1289,4
+Kilbride,56.3755,-5.4727,41
+Dumaguete,9.3068,123.3054,4
+Aberdeen,57.1497,-2.0943,1312
+Lockerbie,55.1222,-3.3490,17
+Overland Park,38.9822,-94.6708,6
+Krakow,50.0647,19.9450,47
+Sydney,-33.8688,151.2093,139
+Fort Collins,40.5853,-105.0844,7
+Barueri,-23.5113,-46.8729,4
+Fredericton,45.9636,-66.6431,6
+Worthing,50.8179,-0.3729,12
+Tunis,36.8065,10.1815,15
+Weybridge,51.3716,-0.4579,9
+Weybridge,51.3716,-0.4579,9
+Chiang Mai,18.7061,98.9817,5
+Shrewsbury,52.7073,-2.7553,9
+Abuja,9.0765,7.3986,19
+Montevideo,-34.9011,-56.1645,10
+Burton upon Trent,52.8140,-1.6371,8
+Greensboro,36.0726,-79.7920,4
+Atlanta,33.7490,-84.3880,50
+Hiram,33.8757,-84.7622,5
+Musselburgh,55.9419,-3.0539,408
+Carrickfergus,54.7262,-5.8101,8
+Hamilton,43.2557,-79.8711,5
+Coatbridge,55.8622,-4.0193,394
+Mexico City,19.4326,-99.1332,28
+East Lansing,42.7370,-84.4839,13
+Stoke Poges,51.5504,-0.5849,5
+Chuo City,35.6706,139.7720,10
+Kirriemuir,56.6751,-3.0035,5
+Hamburg,53.5511,9.9937,25
+Altrincham,53.3869,-2.3489,12
+Wroclaw,51.1079,17.0385,29
+Alpharetta,34.0754,-84.2941,3
+Madison,43.0731,-89.4012,6
+Rawalpindi,33.5651,73.0169,10
+Burton upon Trent,52.8140,-1.6371,8
+Limassol,34.7071,33.0226,6
+Peterborough,52.5695,-0.2405,33
+Wrexham,53.0430,-2.9925,6
+Curitiba,-25.4244,-49.2654,7
+Motherwell,55.7832,-3.9811,273
+Winsford,53.1943,-2.5197,13
+Nuremberg,49.4521,11.0767,10
+Groningen,53.2194,6.5665,32
+Troy,42.6064,-83.1498,6
+Wembley,51.5505,-0.3048,13
+Dumbarton,37.6038,-77.4914,11
+Henley-in-Arden,52.2925,-1.7799,5
+Kelowna,49.8880,-119.4960,4
+Turin,45.0703,7.6869,17
+Bucharest,44.4268,26.1025,41
+York,53.9600,-1.0873,45
+Gengenbach,48.4098,8.0096,4
+Saint Petersburg,59.9343,30.3351,10
+Toulouse,43.6047,1.4442,7
+Tartu,58.3780,26.7290,7
+Penrith,54.6641,-2.7527,12
+La Victoria,-12.0734,-77.0163,8
+Wokingham,51.4105,-0.8339,31
+Birkenhead,53.3900,-3.0230,10
+Chuo City,35.6706,139.7720,10
+Durham,35.9940,-78.8986,14
+Farnborough,51.2869,-0.7526,28
+Vancouver,49.2827,-123.1207,38
+Warwick,52.2823,-1.5849,6
+Peterborough,52.5695,-0.2405,33
+Banbury,52.0629,-1.3398,7
+Scampton,53.3001,-0.5882,4
+Bilbao,43.2630,-2.9350,4
+Alameda,37.7652,-122.2416,5
+Singapore,1.3554,103.8677,18
+Seoul,37.5665,126.9780,25
+Shipley,53.8359,-1.7770,6
+Winchester,51.0598,-1.3101,17
+Kharkiv,49.9935,36.2304,10
+Swords,53.4557,-6.2197,4
+Poitiers,46.5802,0.3404,4
+Lancing,50.8282,-0.3281,10
+Donostia-San Sebastian,43.3183,-1.9812,4
+Wetherby,53.9271,-1.3848,5
+Chuo City,35.6707,139.7719,11
+Eskdalemuir,55.2678,-3.1757,13
+Forfar,56.6436,-2.8891,52
+New Delhi,28.6139,77.2090,30
+Kingston,18.0179,-76.8099,4
+Alness,57.6960,-4.2568,73
+Warsaw,52.2297,21.0122,137
+Leuven,50.8798,4.7005,6
+Edmonton,53.5444,-113.4909,10
+Gurgaon,28.4595,77.0266,30
+Stirling,56.1165,-3.9369,528
+Kilwinning,55.6559,-4.7031,96
+Almere,52.3508,5.2647,8
+Crawley,51.1091,-0.1872,19
+Pasadena,34.1478,-118.1445,5
+Farnham,51.2143,-0.7988,6
+Arlington,32.7357,-97.1081,5
+Aberystwyth,52.4153,-4.0829,9
+Davao City,7.1907,125.4553,9
+Accra,5.6037,-0.1870,22
+Milan,45.4642,9.1900,60
+Asker Municipality,59.8218,10.4210,8
+Didcot,51.6080,-1.2448,8
+Morrisville,35.8235,-78.8256,6
+Uig,57.5841,-6.3573,4
+Royal Tunbridge Wells,51.1324,0.2637,9
+Llanelli,51.6809,-4.1602,8
+New Haven,41.3083,-72.9279,4
+Dorchester,50.7112,-2.4412,5
+Biggar,55.6234,-3.5240,42
+Austin,30.2672,-97.7431,66
+Brooklyn,41.7316,-92.4454,4
+Stratford-upon-Avon,52.1917,-1.7083,19
+Cambridge,52.2053,0.1218,65
+Berkeley,37.8716,-122.2727,9
+Kitchener,43.4516,-80.4925,4
+Rochdale,53.6097,-2.1561,13
+Chicago,41.8781,-87.6298,921
+Roanoke,37.2710,-79.9414,20
+Fort Collins,40.5853,-105.0844,7
+Chuo City,35.6707,139.7719,11
+Rawalpindi,33.5651,73.0169,10
+Stoke-on-Trent,53.0027,-2.1794,25
+Elyria,41.3684,-82.1077,4
+Chicago,41.8781,-87.6298,921
+Ruthin,53.1149,-3.3103,7
+Atlanta,33.7490,-84.3880,50
+La Victoria,-12.0734,-77.0163,8
+Preston,53.7632,-2.7031,44
+Worthing,50.8179,-0.3729,12
+Navi Mumbai,19.0331,73.0297,14
+Horley,51.1735,-0.1721,6
+Stourbridge,52.4569,-2.1487,13
+Singapore,1.3554,103.8677,18
+Chuo City,35.6706,139.7720,10
+Henley-on-Thames,51.5358,-0.9029,4
+Coffeyville,37.0373,-95.6164,159
+Margate,51.3896,1.3868,5
+York,53.9600,-1.0873,45
+Jeddah,21.4858,39.1925,10
+New York,40.7128,-74.0060,525
+San Diego,32.7157,-117.1611,41
+Gdynia,54.5189,18.5305,6
+Cheongju-si,36.6424,127.4890,4
+Sale,53.4256,-2.3237,31
+Belgrade,44.7866,20.4489,11
+Charlotte,35.2271,-80.8431,35
+Newton,42.3370,-71.2092,4
+South Tangerang,-6.2835,106.7113,4
+Warsaw,52.2297,21.0122,137
+Royal Tunbridge Wells,51.1324,0.2637,9
+Tbilisi,41.7151,44.8271,7
+Clydebank,55.9001,-4.4048,162
+Lockerbie,55.1222,-3.3490,17
+Derby,52.9225,-1.4746,54
+Belo Horizonte,-19.9173,-43.9346,15
+Makati,14.5547,121.0244,15
+Mountain View,37.3861,-122.0839,11
+Ruthin,53.1149,-3.3103,7
+Cluj-Napoca,46.7712,23.6236,6
+Poplar,51.5124,-0.0088,4
+Los Alamitos,33.8032,-118.0719,5
+Brentwood,51.6205,0.3072,6
+Hartford,41.7658,-72.6734,5
+Berwick-upon-Tweed,55.7702,-2.0054,4
+Keighley,53.8678,-1.9124,16
+Hoddesdon,51.7600,-0.0150,9
+Sao Paulo,-23.5505,-46.6333,60
+Frisco,33.1507,-96.8236,4
+Cork,51.8985,-8.4756,4
+Gothenburg,57.7089,11.9746,14
+Washington,38.7134,-78.1591,4
+Palma,39.5696,2.6502,7
+Leyland,53.6979,-2.6955,8
+Minneapolis,44.9778,-93.2650,27
+Brighton,50.8225,-0.1372,122
+Penrith,54.6641,-2.7527,12
+Porto,41.1579,-8.6291,20
+Witney,51.7859,-1.4851,4
+Khulna,22.8456,89.5403,6
+Jacksonville,30.3322,-81.6556,7
+Woking,51.3168,-0.5600,20
+Leiden,52.1601,4.4970,4
+Larkhall,55.7377,-3.9717,8
+Elgin,57.6495,-3.3185,71
+Cordoba,-31.4201,-64.1888,10
+Santiago,-33.4489,-70.6693,24
+Chennai,13.0827,80.2707,79
+Dumbarton,37.6038,-77.4914,11
+Yokohama,35.4437,139.6380,6
+Surat,21.1702,72.8311,5
+Dumbarton,37.6038,-77.4914,11
+Dorchester,50.7112,-2.4412,5
+Esher,51.3695,-0.3659,4
+Kirriemuir,56.6751,-3.0035,5
+Surrey,49.1913,-122.8490,4
+Bootle,53.4433,-2.9989,4
+Halifax,53.7270,-1.8575,37
+Amadora,38.7578,-9.2245,6
+Shenzhen,22.5431,114.0579,5
+Henley-in-Arden,52.2925,-1.7799,5
+Madison,43.0731,-89.4012,6
+Khulna,22.8456,89.5403,6
+Napier,-39.4928,176.9120,14
+Douglas,54.1523,-4.4861,44
+Burnley,53.7893,-2.2405,8
+Swindon,51.5558,-1.7797,4
+Uppsala,59.8586,17.6389,4
+Pudsey,53.7958,-1.6761,12
+Manama,26.2285,50.5861,5
+Leyland,53.6979,-2.6955,8
+Moscow,55.7558,37.6173,51
+Fishers,39.9568,-86.0134,4
+Chelmsford,51.7356,0.4685,12
+Lyneham,51.8865,-1.5854,4
+Rosyth,56.0365,-3.4231,66
+Reykjavik,64.1265,-21.8174,6
+Fairfield,40.8837,-74.3060,5
+Zaventem,50.8855,4.4710,7
+Orlando,28.5383,-81.3792,18
+Burgess Hill,50.9545,-0.1287,6
+Salt Lake City,40.7608,-111.8910,23
+Minsk,53.9045,27.5615,11
+Arbroath,56.5591,-2.5915,42
+Barcelona,41.3851,2.1734,73
+Sacramento,38.5816,-121.4944,15
+Droitwich Spa,52.2621,-2.1479,6
+Lowestoft,52.4811,1.7534,4
+Guildford,51.2362,-0.5704,34
+Pozuelo de Alarcon,40.4475,-3.8074,5
+Kirkland,47.6769,-122.2060,19
+Irving,32.8140,-96.9489,4
+Lucknow,26.8467,80.9462,14

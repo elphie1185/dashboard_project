@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567956511874.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4190503161",
+    "id" : "67BC1C3",
+    "lastKnownWriteTime" : 1567956691,
+    "last_content_update" : 1567956691322,
+    "path" : "~/R_shiny_project/user_functions/tab_4_top_sessions_and_exits.R",
+    "project_path" : "user_functions/tab_4_top_sessions_and_exits.R",
+    "properties" : {
+        "cursorPosition" : "12,34",
+        "scrollLine" : "6"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

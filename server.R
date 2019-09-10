@@ -24,6 +24,7 @@ output$website_visitors <- renderText({
           " days: "
     )
 })
+
 output$website_visitors_number <- renderText({
     paste(get_number_sessions(tab1_data, input$date_range[1], 
                               input$date_range[2])

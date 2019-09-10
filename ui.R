@@ -19,11 +19,12 @@ shinyUI(fluidPage(
 # Creates heading row with date range picker and total sessions and
 # conversions.
   fluidRow(
+    verticalLayout(
     column(4,
            dateRangeInput("date_range",
                           label = "Pick a date range",
-                          start = Sys.Date() - 60,
-                          end = Sys.Date(), 
+                          start = as_date("2019-09-08") - 60,
+                          end = as_date("2019-09-08"), 
                           min = as_date("2019-01-01"), 
                           max = as_date("2019-09-08")
             )
@@ -44,7 +45,8 @@ shinyUI(fluidPage(
               style = "color:orange", align = "center"
            )
     )
-  ),
+  )
+),
   
 # Add the left hand navigation panel
   navlistPanel("Choose a visualisation:",

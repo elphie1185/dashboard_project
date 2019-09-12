@@ -18,12 +18,6 @@ source("user_functions/tab_2_sessions_and_conversions_by_city.R")
 source("user_functions/tab_3_map_of_sessions.R")
 source("user_functions/tab_4_top_sessions_and_exits.R")
 
-# Random javascript code that allows dynamic resizing of the map.
-jscode <- '$(document).on("shiny:connected", function(e) {
-        var jsHeight = window.innerHeight;
-        Shiny.onInputChange("GetScreenHeight",jsHeight);
-});'
-
 
 # Pull in synthesised data
 map_data <- read_csv("map_data_syn.csv")
@@ -31,3 +25,4 @@ device_data <- read_csv("device_data_syn.csv")
 top_pages <- read_csv("top_pages_syn.csv")
 overall_goals_sessions <- read_csv("overall_goals_sessions_syn.csv")
 channel_split_data <-read_csv("channel_split_data_syn.csv")
+

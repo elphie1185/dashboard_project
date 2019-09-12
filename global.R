@@ -24,9 +24,10 @@ jscode <- '$(document).on("shiny:connected", function(e) {
         Shiny.onInputChange("GetScreenHeight",jsHeight);
 });'
 
-# Source the data
-tab1_data <- read_csv("synthetic_tab1.csv")
-tab2_data <- read_csv("synthetic_tab2.csv")
-tab3_data <- read_csv("synthetic_tab3.csv")
-synthetic_most_view <- read_csv("synthetic_most_view.csv")
-synthetic_most_exit <- read_csv("synthetic_most_exit.csv")
+
+# Pull in synthesised data
+map_data <- read_csv("map_data_syn.csv")
+device_data <- read_csv("device_data_syn.csv")
+top_pages <- read_csv("top_pages_syn.csv")
+overall_goals_sessions <- read_csv("overall_goals_sessions_syn.csv")
+channel_split_data <-read_csv("channel_split_data_syn.csv")

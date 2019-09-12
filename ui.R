@@ -9,6 +9,7 @@ shinyUI(fluidPage(
 # Adds in the random bit of javascript that somehow makes the map tab
 # size dynamically change with the sie of the window.
   tags$script(jscode),
+
   
 # Add theme
   theme = shinythemes::shinytheme("cerulean"),
@@ -19,14 +20,14 @@ shinyUI(fluidPage(
 # Creates heading row with date range picker and total sessions and
 # conversions.
   fluidRow(
-    verticalLayout(
     column(4,
-           dateRangeInput("date_range",
-                          label = "Pick a date range",
-                          start = as_date("2019-09-08") - 60,
-                          end = as_date("2019-09-08"), 
-                          min = as_date("2019-01-01"), 
-                          max = as_date("2019-09-08")
+           dateRangeInput('date_range',
+                          label = 'Pick a date range',
+                          start = Sys.Date() - 14,
+                          end = as.Date('2019-09-10'),
+                          #max and min input because mocked data only covers a year
+                          min = as.Date('2018-09-10'),
+                          max = as.Date('2019-09-10')
             )
       ),
     column(4,
@@ -45,8 +46,7 @@ shinyUI(fluidPage(
               style = "color:orange", align = "center"
            )
     )
-  )
-),
+  ),
   
 # Add the left hand navigation panel
   navlistPanel("Choose a visualisation:",

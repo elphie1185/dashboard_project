@@ -145,7 +145,7 @@
     
     
     output$map_1 <- renderLeaflet({
-      create_map(tab3_map_data())
+      create_map(tab3_map_data()) 
     })        
     
    

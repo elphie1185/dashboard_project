@@ -123,7 +123,9 @@ dashboardPage(
 # ==============================================================================
                              
          tabPanel("Map of Sessions",
-                  leafletOutput("map_1")
+                  tags$style(type = "text/css", 
+                             "#map {height: calc(100vh - 80px) !important;}"),
+                  leafletOutput("map_1", height = 750)
          ),
                              
 # ==============================================================================

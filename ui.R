@@ -10,6 +10,7 @@ dashboardPage(
   dashboardSidebar(
     br(),
     br(),
+    br(),
     
     fluidRow(
       infoBoxOutput("Website_Visitor")
@@ -28,9 +29,9 @@ dashboardPage(
     fluidRow(
       infoBox(title = "Website", 
               icon = icon("globe"),
-              value = "Website link",
-              color = "aqua", 
-              href = "https://github.com/elphie1185"
+              value = tags$a("Website Link", 
+                             href = "https://github.com/elphie1185"),
+              color = "light-blue"
       )
     ),
     
@@ -41,7 +42,7 @@ dashboardPage(
       infoBox(title = "Data",
              "Synthetic Data", 
                icon = icon("database"),
-               color = "aqua"
+               color = "light-blue"
       )
     )
   ),

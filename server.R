@@ -10,18 +10,20 @@
     output$Website_Visitor <- renderInfoBox({
       infoBox(
         "Visitor", 
-        tags$b(textOutput("website_visitors_number")), 
+        value = "Visitors",
+        subtitle = tags$b(textOutput("website_visitors_number")), 
         icon = icon("user"),
-        color = "aqua"
+        color = "light-blue"
       )
     })
     
     output$Conversion <- renderInfoBox({
       infoBox(
         "Conversion", 
-        tags$b(textOutput("conversions_number")), 
+        value = "Conversion",
+        subtitle = tags$b(textOutput("conversions_number")), 
         icon = icon("check-circle"),
-        color = "aqua"
+        color = "light-blue"
       )
     })
     

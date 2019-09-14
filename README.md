@@ -1,4 +1,4 @@
-# dashboard_project
+# Dashboard_Project - Website Performance
 
 ## Project_scope
 
@@ -17,4 +17,12 @@ To illustrate this the dashboard answers the following questions (for a selected
 ## Tools
 
 The data was extracted using the google_analytics API.
+
 For the purpose of this public dashboard, synthetic data was created. 
+
+The dashboard was created in R using shinydashboard. The following libraries were used: 
+- library(leaflet)
+- library(lubridate)
+- library(shiny)
+- library(tidyverse)
+- library(shinydashboard)

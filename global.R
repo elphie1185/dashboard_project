@@ -20,9 +20,9 @@ source("user_functions/tab_4_top_sessions_and_exits.R")
 
 
 # Pull in synthesised data
-map_data <- read_csv("map_data_syn.csv")
-device_data <- read_csv("device_data_syn.csv")
-top_pages <- read_csv("top_pages_syn.csv")
-overall_goals_sessions <- read_csv("overall_goals_sessions_syn.csv")
-channel_split_data <-read_csv("channel_split_data_syn.csv")
+map_data <- read_csv("syn_data/map_data_syn.csv")
+device_data <- read_csv("syn_data/device_data_syn.csv")
+top_pages <- read_csv("syn_data/top_pages_syn.csv")
+overall_goals_sessions <- read_csv("syn_data/overall_goals_sessions_syn.csv")
+channel_split_data <-read_csv("syn_data/channel_split_data_syn.csv")
 

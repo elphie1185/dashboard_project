@@ -1,10 +1,7 @@
 # Load required libraries.
-library(dplyr)
-library(ggplot2)
 library(leaflet)
 library(lubridate)
 library(shiny)
-library(stringr)
 library(tidyverse)
 library(shinydashboard)
 

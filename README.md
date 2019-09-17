@@ -31,11 +31,17 @@ The dashboard was created in R using shinydashboard. The following libraries wer
 ### Landing page - Goal Overview
 The user has the option to select the dat range and see the monthly/weekly/daily number of events booking against the desired target as well as the geographical location of the users who have booked an event. 
 
+
+
 ### Session and conversion by sources and city
-This tab shos the number of session and conversion of events booking depending on the channel used to access the websit or type of social network. se
+This tab shos the number of session and conversion of events booking depending on the channel used to access the website or type of social network. 
+
+
 
 ### Map of sessions
 This tab shows the geographical location of he website users in the selected time frame. 
+
+
 
 ### Top 20 sessions and exits
 This tab shows the top 20 pages were users landed on the website and left the website. 

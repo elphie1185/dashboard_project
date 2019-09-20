@@ -27,6 +27,13 @@ The dashboard was created in R using shinydashboard. The following libraries wer
 - library(tidyverse)
 - library(shinydashboard)
 
+## Creating synthetic data
+For the purpose of this public dashboard, synthetic data was created. 
+Calls were made to the GoogleAnalytics API to extract the metrics and dimension of interest. The output data was put through the synthpop library in R.
+
+The date range in this public dashboard is limited to a year to match the dates of the synthetic data.
+
+
 ## Dashboard
 ### Landing page - Goal Overview
 The user has the option to select the dat range and see the monthly/weekly/daily number of events booking against the desired target as well as the geographical location of the users who have booked an event. 

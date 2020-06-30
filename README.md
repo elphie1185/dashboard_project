@@ -10,7 +10,7 @@ To illustrate this the dashboard answers the following questions (for a selected
   - How many events booking were completed?
   - Where were these events booking made from (geographically)?
   - From what type of device?
-  - How do user lnd on the website?
+  - How do user land on the website?
   - On which page do they land, and which page do they exit?
   - Where are visitors from?
 
